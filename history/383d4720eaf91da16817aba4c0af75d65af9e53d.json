@@ -1,0 +1,212 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 552,
+    "time": 1794023143,
+    "hash": "383d4720eaf91da16817aba4c0af75d65af9e53d"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1789129771,
+    "hash": "137c992aa8961c45672f803c00325a72a033c91a"
+  },
+  "README.md": {
+    "size": 1538,
+    "time": 1790044864,
+    "hash": "2fd34749e3dd01dc409cc7a11f36baef07e52f87"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1789129771,
+    "hash": "137c992aa8961c45672f803c00325a72a033c91a"
+  },
+  "assignments/激光原理课后作业1(1).docx": {
+    "size": 14429,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业1-答案.docx": {
+    "size": 26029,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业2-答案.docx": {
+    "size": 38884,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业2.docx": {
+    "size": 30260,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业3-答案.docx": {
+    "size": 26682,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业3.docx": {
+    "size": 15918,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业4-答案.docx": {
+    "size": 49347,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业4.docx": {
+    "size": 16071,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业5-答案.docx": {
+    "size": 183853,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业5.pptx": {
+    "size": 615091,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业6-答案.docx": {
+    "size": 524209,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业6.pptx": {
+    "size": 486812,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业7-答案.docx": {
+    "size": 19334,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业7.pptx": {
+    "size": 218518,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业8-答案.docx": {
+    "size": 17197,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业8.pptx": {
+    "size": 135147,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业9-答案.docx": {
+    "size": 16655,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "assignments/激光原理课后作业9.pptx": {
+    "size": 35243,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1789129771,
+    "hash": "137c992aa8961c45672f803c00325a72a033c91a"
+  },
+  "exams/24秋激光原理（回忆版）.pdf(1).pdf": {
+    "size": 18211604,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "exams/24秋激光原理（回忆版）.pdf.pdf": {
+    "size": 1287936,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1789129771,
+    "hash": "137c992aa8961c45672f803c00325a72a033c91a"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1789129771,
+    "hash": "137c992aa8961c45672f803c00325a72a033c91a"
+  },
+  "notes/写写更健康.pdf": {
+    "size": 41677922,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "notes/激光原理背诵清单.pdf": {
+    "size": 32860538,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "readme.toml": {
+    "size": 1610,
+    "time": 1790044886,
+    "hash": "31c873c1fd25e86140e0b4a552391c8a521bd6bd"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1789129771,
+    "hash": "137c992aa8961c45672f803c00325a72a033c91a"
+  },
+  "slides/原子物理-第一章-20230215.pdf": {
+    "size": 3350650,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/原子物理-第七章-20230426.pdf": {
+    "size": 2270806,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/原子物理-第三章上-20230309.pdf": {
+    "size": 6854546,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/原子物理-第三章下-20230316.pdf": {
+    "size": 8471888,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/原子物理-第二章-20230223.pdf": {
+    "size": 6419385,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/原子物理-第五章-20230409.pdf": {
+    "size": 2797871,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/原子物理-第八章-20230504.pdf": {
+    "size": 5188921,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/原子物理-第六章-20230423.pdf": {
+    "size": 3093586,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/原子物理-第四章-20230405.pdf": {
+    "size": 4543837,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/激光原理PPT-发学生版.zip": {
+    "size": 68507489,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  },
+  "slides/激光原理第一讲-20240825.pdf": {
+    "size": 703971,
+    "time": 1789141408,
+    "hash": "10d640084e39950bebd34d2ed867e8b615f93be9"
+  }
+}
